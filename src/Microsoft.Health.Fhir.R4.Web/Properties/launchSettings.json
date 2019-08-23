@@ -18,10 +18,10 @@
                     "DataStore": "CosmosDb",
                     "ASPNETCORE_ENVIRONMENT": "development"
                 },
-                "applicationUrl": "https://localhost:44348/"
+                "applicationUrl": "https://fhirlocalcode.azurewebsites.net/"
             },
 
-            "applicationUrl": "https://localhost:44348/"
+            "applicationUrl": "https://fhirlocalcode.azurewebsites.net/"
         }
     }
 }
